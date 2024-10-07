@@ -1,0 +1,21 @@
+#content {
+    width: 700px;
+    border: 13px solid;
+    border-color: rgb(113, 29, 29);
+    padding: 50px;
+    margin: auto;
+    border-radius: 30px;
+    background-color: rgb(203, 167, 167);
+    text-decoration-thickness: 1px;
+}
+
+img {
+    width: 100%;
+    border: 6px solid;
+    border-color: rgb(113, 29, 29);
+    border-radius: 5px;
+}
+
+body{
+    background-color: rgb(126, 91, 91);
+}
