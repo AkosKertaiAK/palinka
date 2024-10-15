@@ -1,21 +1,24 @@
 #content {
-    width: 700px;
+    width: 550px;
     border: 13px solid;
-    border-color: rgb(113, 29, 29);
+    border-color: rgb(211, 74, 0);
     padding: 50px;
     margin: auto;
     border-radius: 30px;
-    background-color: rgb(203, 167, 167);
+    background-color: rgba(254, 183, 108, 0.874);
     text-decoration-thickness: 1px;
 }
 
 img {
     width: 100%;
     border: 6px solid;
-    border-color: rgb(113, 29, 29);
+    border-color: rgb(186, 84, 0);
     border-radius: 5px;
 }
 
 body{
-    background-color: rgb(126, 91, 91);
+    background-image: url(abstract-background-with-gradient-color-and-dynamic-shadow-on-background-background-for-wallpaper-eps-10-free-vector.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
